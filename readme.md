@@ -24,7 +24,7 @@ Ruby
 * No semicolons
 * functions start with ``def name`` and end with ``end``
 * For/while loops are not used frequently in Ruby. Best practice is to use the ``.each`` method on arrays to work with each value in the array.
-* Functions can, and often will, be called without using parentheses; i.e. ``myfunc("param1",2)`` is equivalent to ``myfunc "param1", 2``
+* Functions can, and often will, be called without using parentheses; i.e. ``myfunc("param1",2)`` is equivalent to ``myfunc "param1", 2``. Similarly, functions that take no parameters can be called by using their name alone.
 
 If you want to run the ``ruby.rb`` file open up terminal and type in ``ruby ruby.rb``
 
