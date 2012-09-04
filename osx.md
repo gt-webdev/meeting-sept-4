@@ -10,7 +10,7 @@ Recommended setup
 Installing RVM
 --------------
 
-First, download the CLI tools (or Xcode)from Apple: http://developer.apple.com
+First, download the CLI tools (or Xcode) from Apple: http://developer.apple.com
 
 After you download and install, you'll need to install RVM. Open up terminal and copy/paste this line into it
 
@@ -21,3 +21,10 @@ Once this finishes, open up ``~/.bashrc`` (or ``.zshrc`` if you're using that) a
     PATH=$PATH:$HOME/.rvm/bin
     
 Close and open a new terminal, then type in ``ruby -v``. It should say ``ruby 1.9.3p194``
+
+Installing homebrew
+-------------------
+
+It's super easy! Copy/paste this into terminal
+
+    ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go)
