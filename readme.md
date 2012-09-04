@@ -6,7 +6,7 @@ This meeting is going to be about introducing people to gt-webdev and what we'll
 Installation
 ------------
 
-Since setting up is slightly different for each system there is a seperate file containing instructions for each operating system. If you have any questions feel free to ask any of the officers (Jarvis Johnson, Daniel Whatley, Yuval Dekel, or Tomer Elmalem).
+Since setting up is slightly different for each system there is a seperate file containing instructions for each operating system. If you have any questions feel free to ask any of the officers (Jarvis Johnson, Daniel Whatley, Dekel, or Tomer Elmalem).
 
 Checkout this repo!
 -------------------
