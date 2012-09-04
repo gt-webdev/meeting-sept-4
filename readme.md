@@ -42,4 +42,8 @@ Sinatra
 
 For the first few weeks we will be using the Sinatra framework before we dive into Rails. The idea behind this is to teach people basic HTTP and web development concepts and to ease people into the Ruby syntax and practices before using Rails.
 
+Before we can use sinatra in our files, we need ta make sure it's installed. If you installed ruby successfully, you'll
+likely have access to the ``gem`` command line tool. This tool downloads and installs packages that work with ruby.
+Installing sinatra is as easy as typing ``gem install sinatra`` in your command line!
+
 Running the Sinatra file is very easy. All you need to do is run ``ruby index.rb`` in terminal and that will start the webserver. Open up a browser and go to ``http://localhost:4567`` and you should se a page containing 'hello world!'. If you see this then everything is working!
