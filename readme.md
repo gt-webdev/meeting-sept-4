@@ -13,7 +13,7 @@ Checkout this repo!
 
 Before we can continue from this point you'll have to checkout this repository. To do so copy/paste this into the terminal
 
-    git://github.com/gt-webdev/meeting-sept-4.git
+    git clone git://github.com/gt-webdev/meeting-sept-4.git
 
 Ruby
 ----
