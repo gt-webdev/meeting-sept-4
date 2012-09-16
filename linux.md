@@ -9,7 +9,7 @@ Recommended setup
 Installing RVM
 --------------
 
-Make sure you have the ``build-essential`` package installed so you have access to the necessary gcc compilers to install ruby. Additionally, you should make sure you have ``zlib`` installed or you might get errors while trying to install gems. (Ask Jarvis about this)
+Make sure you have the ``build-essential`` package installed so you have access to the necessary gcc compilers to install ruby. Additionally, you should make sure you have ``zlib`` installed or you might get errors while trying to install gems. You can install it by typing ``sudo apt-get install zlib1g-dev`` into your terminal.
 
 After you download and install, you'll need to install RVM. Open up terminal and copy/paste this line into it
 
